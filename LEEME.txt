@@ -1,0 +1,15 @@
+DETALLE ROMÁNTICO: NUESTRO UNIVERSO ❤️🪐
+
+CONTENIDO
+- index.html: página animada vertical adaptable a celular.
+- videos/: carpeta donde van tus tres videos.
+
+PARA USARLO
+1. Descomprime el ZIP.
+2. Copia tus videos a la carpeta videos.
+3. Ponles estos nombres: video-1.mp4, video-2.mp4 y video-3.mp4.
+4. Abre la carpeta en Codex y pídele que lo mejore o lo convierta en un proyecto web.
+5. Para probarlo, ejecuta un servidor local (por ejemplo, la extensión Live Server en VS Code) y abre index.html.
+
+NOTA
+Esto es una página web animada, no un archivo MP4 renderizado. Puedes grabar la pantalla o usar una herramienta de captura/exportación para obtener un video vertical. Los controles de los tres videos permiten reproducirlos dentro de sus marcos.
